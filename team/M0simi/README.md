@@ -1,6 +1,9 @@
 # 👋 Hello, I'm Meshari
 
-![💻](![Cybersecurity](https://cdn-icons-png.flaticon.com/512/3048/3048122.png)
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/3660/3660605.png" alt="Cyber Security Icon" width="150"/>
+</p>
+
 
 ## 🌟 About Me
 
