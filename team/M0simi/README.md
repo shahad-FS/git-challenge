@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Meshari
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/3660/3660605.png" alt="Cyber Security Icon" width="150"/>
+  <img src="https://thumbs.dreamstime.com/b/mesmerizing-image-displays-complex-network-connections-pathways-resembling-intricate-neural-networks-human-brain-271336848.jpg" alt="Cyber Security Icon" width="150"/>
 </p>
 
 
