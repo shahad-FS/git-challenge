@@ -8,10 +8,11 @@
 ✧ **Why I code:** I simply enjoy it — I love learning, building, and having fun along the way  
 ✧ **I love** playing PC games, especially adventure and puzzle games!
 
----
+
 
 “Slow down and enjoy the moment” — a quote I always remind myself of -`♡´-
 
+---
 
 🌷Special thanks to **Khairia**  
  for creating this challenge and giving us a fun way to learn and grow 🌷
