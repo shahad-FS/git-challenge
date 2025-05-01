@@ -4,9 +4,9 @@
 
 ### 🌿 A little about me:
 
-✧ **Favorite language:** Python  
-✧ **Why I code:** I simply enjoy it — I love learning, building, and having fun along the way  
-✧ **I love** playing PC games, especially adventure and puzzle games!
+- ✧ **Favorite language**: _Python_
+- ✧ **Why I code**: _I simply enjoy it — I love learning, building, and having fun along the way_
+- ✧ **Hobbies**: _Playing PC games, especially adventure and puzzle games_
 
 
 
