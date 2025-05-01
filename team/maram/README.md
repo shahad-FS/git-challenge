@@ -4,10 +4,10 @@
 
 ##  About Me:
   
-  ✧ Favorite language: Python  
-  ✧ Why I code: I simply enjoy it — I love learning, building,
+-  ✧ Favorite language: Python  
+ - ✧ Why I code: I simply enjoy it I love learning, building,
     and having fun along the way
-   ✧ I love playing PC games, especially adventure and puzzle games!
+ -✧ I love playing PC games, especially adventure and puzzle games!
 
 ---
 
