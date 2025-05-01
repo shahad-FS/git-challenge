@@ -1,13 +1,13 @@
-#  ![ShyHands](https://github.com/user-attachments/assets/11ba700a-7815-4f22-9e2b-dba5f08cdc47)
- Hello, I'm Maram
+# Hello, I'm Maram ☀️
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWhwMTJhdm1yOGpveTFkN203cHdrbTlpNDVxOWRzZTg4enlvMndqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="200"/>
 
 ##  About Me:
 
--  Favorite language: Python  
--  Why I code: I simply enjoy it — I love learning, building, and having fun along the way
--  I love playing PC games, especially adventure and puzzle games!
+ ( ͡° ͜ʖ ͡°) Favorite language: Python  
+ (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ Why I code: I simply enjoy it — I love learning, building, and having fun along 
+ the way
+ (｡♥‿♥｡) I love playing PC games, especially adventure and puzzle games!
 
 ---
 
