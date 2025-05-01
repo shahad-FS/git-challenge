@@ -14,4 +14,4 @@
 “Slow down and enjoy the moment” — a quote I always remind myself of -`♡´-
 
 🌷Special thanks to **Khairia**  
-for creating this challenge and giving us a fun way to learn and grow 🌱
+ for creating this challenge and giving us a fun way to learn and grow 🌷
