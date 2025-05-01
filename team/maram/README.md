@@ -10,7 +10,7 @@
 
 
 
-_“Slow down and enjoy the moment” ♡_
+_“Slow down and enjoy the moment” — a gentle reminder I keep close. ♡_
 
 
 ---
