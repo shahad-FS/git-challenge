@@ -1,4 +1,4 @@
-# Hello, I'm Maram ✿
+# Hi, I'm Maram 
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWhwMTJhdm1yOGpveTFkN203cHdrbTlpNDVxOWRzZTg4enlvMndqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="200"/>
 
