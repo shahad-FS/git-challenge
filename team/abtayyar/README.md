@@ -1,6 +1,6 @@
-# 👋 ~ Abdulrahman Tayyar
+# 👋 Abdulrahman Tayyar
 
-![Avatar](https://avatars.githubusercontent.com/u/151989404)
+![Avatar](https://avatars.githubusercontent.com/u/AbdulrahmanAlTayar)
 
 ---
 
@@ -22,6 +22,5 @@
 ---
 
 > 💡 *"الكثير من الفاشلين في الحياة هم أشخاصٌ لم يدركوا مدى قربهم من النجاح عندما استسلموا."*  
-> 💡 *"Many of life's failures are people who did not realize how close they were to success when they gave up."*  
 
 > — **Thomas A. Edison**
