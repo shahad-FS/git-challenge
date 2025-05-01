@@ -1,6 +1,6 @@
 # 👋 Abdulrahman Tayyar
 
-![Avatar](https://avatars.githubusercontent.com/u/AbdulrahmanAlTayar)
+![Sunset Image](https://img.freepik.com/free-vector/gradient-tropical-sunset-background_52683-131844.jpg?semt=ais_hybrid&w=740)
 
 ---
 
