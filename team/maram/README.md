@@ -10,7 +10,8 @@
 
 
 
-“Slow down and enjoy the moment” — a quote I always remind myself of -`♡´-
+_“Slow down and enjoy the moment” — a gentle reminder I keep close. ♡_
+
 
 ---
 
