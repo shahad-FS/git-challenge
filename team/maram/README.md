@@ -15,5 +15,5 @@ _“Slow down and enjoy the moment” — a gentle reminder I keep close. ♡_
 
 ---
 
-🌷Special thanks to **Khairia**  
- for creating this challenge and giving us a fun way to learn and grow 🌷
+🌷 **Special thanks to Khairia**  
+for creating this challenge and giving us a fun way to learn and grow 🌷
