@@ -2,6 +2,9 @@
 
 ![My Avatar](https://i.imgur.com/vLvDkSK.jpg) 
 
+
+
+
 ### ✨ معلومات عني:
 ### لغتي المفضلة 🔤: 
 - Python 🐍
