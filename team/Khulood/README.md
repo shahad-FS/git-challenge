@@ -1,6 +1,6 @@
 # Khulood AlOtaibi 👩🏻‍💻
 
-![My Avatar]([[https://avatars.githubusercontent.com/u/000000?v=4](https://imgur.com/a/JwaVqhB](https://imgur.com/a/JwaVqhB)) 
+![My Avatar](https://i.imgur.com/vLvDkSK.jpg) 
 
 ### ✨ معلومات عني:
 ### لغتي المفضلة 🔤: 
