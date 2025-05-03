@@ -1,4 +1,4 @@
-## Khulood AlOtaibi 👩🏻‍💻
+# Khulood AlOtaibi 👩🏻‍💻
 
 ![My Avatar](https://i.imgur.com/vLvDkSK.jpg) 
 
