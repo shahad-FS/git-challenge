@@ -1,11 +1,11 @@
-# Khulood AlOtaibi 👩🏻‍💻
+## Khulood AlOtaibi 👩🏻‍💻
 
 ![My Avatar](https://i.imgur.com/vLvDkSK.jpg) 
 
 
 
 
-### ✨ معلومات عني:
+### معلومات عني ✨:
 ### لغتي المفضلة 🔤: 
 - Python 🐍
 - HTML 💻
