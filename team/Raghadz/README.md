@@ -12,7 +12,7 @@
 - 💻 My Favorite Programming Language is SQL, it has been my go-to tool for managing and analyzing healthcare data efficiently. It allows me to extract meaningful insights that can drive decisions and improve patient care.
 
 
-- fun fact : I love helping others and genuinely enjoy it... sometimes a bit too much, I forget my own tasks!
+- Fun fact : I love helping others and genuinely enjoy it... sometimes a bit too much, I forget my own tasks!
 ![Image](https://github.com/user-attachments/assets/68307cf3-8a83-45e7-b4a0-a7745be7c323)
 
 
