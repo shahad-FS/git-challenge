@@ -9,7 +9,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🌱 I’m currently learning C with Holbertonschool in Tuwaiq Academy
 
-- 💻 My Favorite Programming Language is SQL, it has been my go-to tool for managing and analyzing healthcare data efficiently. It allows me to extract meaningful insights that can drive decisions and improve patient care.**
+- 💻 My Favorite Programming Language is SQL, it has been my go-to tool for managing and analyzing healthcare data efficiently. It allows me to extract meaningful insights that can drive decisions and improve patient care.
 
 
 - fun fact : I love helping others and genuinely enjoy it... sometimes a bit too much, I forget my own tasks!
