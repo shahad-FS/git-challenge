@@ -5,7 +5,7 @@
 
    
 
-   
+
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🌱 I’m currently learning C with Holbertonschool in Tuwaiq Academy
 
