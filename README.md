@@ -20,6 +20,7 @@
 4. بعد الانتهاء، ارفع التغييرات وسوّي **Pull Request**.
 
 ---
+![challenge#1](https://github.com/user-attachments/assets/bc75e308-6e6b-41e9-a30d-f66359b9ef3c)
 
 # challenge #2
 
