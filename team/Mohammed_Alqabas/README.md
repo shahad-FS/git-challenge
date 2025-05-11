@@ -54,7 +54,7 @@ _2022 – 2025_
 ## Certifications & Awards
 
 - **C Programming Professional Certificate**, Holberton School (Mar 2025)  
-- **Best Solo Project** for “Simple Shell” at Tuwaiq Academy (Mar 2025)  
+- **Best Project** for “Simple Shell” at Tuwaiq Academy (Mar 2025)  
 
 ---
 
