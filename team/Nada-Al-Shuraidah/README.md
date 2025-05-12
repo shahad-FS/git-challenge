@@ -1,7 +1,9 @@
 # 👋 مرحباً جميعاً
 ## أنا: ندى آل شريده
 
-<p align="center"> <img src="![git nada](https://github.com/user-attachments/assets/be443422-e4a2-4482-bd12-2ea5e96a5dd2)" width="400" height="300"/> </p>
+<p align="center">
+    <img src="![git nada](https://github.com/user-attachments/assets/be443422-e4a2-4482-bd12-2ea5e96a5dd2)" width="400" height="300"/>
+</p>
 
 ## 💻 أحب لغة: Python 🐍
 
