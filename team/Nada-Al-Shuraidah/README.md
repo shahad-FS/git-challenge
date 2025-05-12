@@ -2,7 +2,7 @@
 ## أنا: ندى آل شريده
 
 <p align="center">
-    <img src="images/git nada" width="400" height="300"/>
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/197522928/442956904-ba4d5040-fca0-4484-81af-219c7863a468.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250512%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250512T214816Z&X-Amz-Expires=300&X-Amz-Signature=5907d9dc5d47cf59b8a01b03b7241591960708eb740b5a89bbe0205ce5645d25&X-Amz-SignedHeaders=host" width="300" height="300"/>
 </p>
 
 ## 💻 أحب لغة: Python 🐍
