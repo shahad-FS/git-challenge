@@ -9,7 +9,7 @@
 - 💻 **Why I Code:** Programming lets me build, break, and rebuild. It’s the ultimate tool for creativity and logic.
 - 😄 **Fun Fact:** I often dive into code just for fun — it's like a playground for my brain!
 
-- **what i had learn** I have learned from challenge-1 how to make a pull request (PR) which i honestly forgot it  ^=^x^d
+- **what i had learn** I have learned from challenge-1 how to make a pull request (PR) which i honestly forgot it 😄!
 - **Skill i am learning** I currntly learning python language, also trying to learn how to debugging 
 
 > _"Stay curious, stay sharp. The digital world never sleeps."_ 💡
