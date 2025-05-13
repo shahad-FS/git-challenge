@@ -69,5 +69,5 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=28&pause=1000&color=FFB6C1&width=600&lines=Always+learning+something+new!+💡;Digital+Crafts+Woman+in+Tech+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=28&pause=1000&color=FFB6C1&width=600&lines=Always+learning+something+new!+💡;Digital+Crafts+Woman+in+Tech+✨;Keep+Learning...+Keep+Creating!+💫" alt="Typing SVG" />
 </p>
