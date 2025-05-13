@@ -6,17 +6,12 @@
 
 ---
 
-### 🎨 Avatar
-
-<p align="center" style="font-size: 50px;">🌸</p>
-
----
-
 ### ✨ About Me
 
-- 💻 **Favorite Language:** C and Python  
-- 🎯 **Goal in Programming:** To grow my skills and build smart solutions  
-- 🎈 **Fun Fact:** I enjoy blending tech with design 🎨
+- 💻 I love coding in C and Python  
+- 🤖 I'm passionate about research and artificial intelligence  
+- 📄 I have a published research paper:  
+  [Springer Chapter](https://link.springer.com/chapter/10.1007/978-3-031-83915-3_23)
 
 ---
 
@@ -24,7 +19,3 @@
 
 > "Don't wait for opportunity. Create it."  
 > — Unknown
-
----
-
-> Designed with ❤️ using Markdown
