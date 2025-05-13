@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzB6aG5jbTZqemZ2Njc4OW8zMnI2YXh4NWVnOTJpc21xeWJha3djZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="600"/>
+</p>
 
 
 <h1 align="center">✨ Hello, I’m Khulood Al-Otaibi ✨</h1>
