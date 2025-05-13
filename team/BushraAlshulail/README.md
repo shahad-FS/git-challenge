@@ -19,3 +19,12 @@
 
 > "Don't wait for opportunity. Create it."  
 > — Unknown
+
+---
+
+## 🌱 Tech Team Challenge #2
+
+- 🛠️ **Currently learning:** Shell scripting, Git branching, and Markdown formatting  
+- 📘 **What I learned from the last challenge:** How to write a clean, engaging README and share technical info in a simple way  
+- 🎯 **My goal in the tech team:** To grow through collaboration, code reviews, and continuous learning  
+- ⚔️ **Recent challenge:** I struggled with organizing my Git workflow, but solved it by practicing with real branches and PRs 💪
