@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Leen Al-Saleh
 
-🎨 [![Watch My Video](https://img.youtube.com/vi/Dp8cmeAgLNg/0.jpg)](https://youtube.com/shorts/Dp8cmeAgLNg?feature=share)
+🎨 
 
 
 ## ✨ About Me
