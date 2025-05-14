@@ -1,7 +1,9 @@
 # 👋 Hello, I'm Leen Al-Saleh
 
+<p align="center">
+  <img src="./leen_intro.gif" width="300">
+</p>
 
-![My Intro Video](./leen_intro.gif)
 
 
 ## ✨ About Me
