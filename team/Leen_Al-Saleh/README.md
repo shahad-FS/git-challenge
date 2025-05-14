@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Leen Al-Saleh
 
-🎨 ![Emoji](https://em-content.zobj.net/thumbs/120/apple/325/woman-technologist_1f469-200d-1f4bb.png)
+🎨 [![Watch My Video](https://img.youtube.com/vi/Dp8cmeAgLNg/0.jpg)](https://youtube.com/shorts/Dp8cmeAgLNg?feature=share)
+
 
 ## ✨ About Me
 - 💻 Favorite Language: HTML & CSS
