@@ -11,7 +11,7 @@
 
 ## 💡 Quote
 > <p align="center">
-  <img src="./Leen.gif" alt="Leen" width="200"/>
+  <img src="./Leen.gif" alt="Leen" width="300"/>
 </p>
 
 
