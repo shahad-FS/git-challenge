@@ -5,7 +5,7 @@
 
 ## ✨ About Me  
 <p align="left">
-  <strong>✨ About Me</strong>
+  <strong>##✨ About Me</strong>
   <img src="../Leen_Al-Saleh/lolo.gif" alt="Lolo" width="40" style="vertical-align: middle; margin-left: 10px;"/>
 </p>
 
