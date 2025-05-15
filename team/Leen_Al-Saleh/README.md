@@ -7,9 +7,10 @@
 <img src="./lolo.gif" alt="Lolo" width="150" style="vertical-align: middle;"/>
 
 _💻 Favorite Language :_
-
    <img src="./lele.gif" alt="Favorite Language" width="120" style="vertical-align: middle; margin-left: 8px;"/>
--  Python and JavaScript — because they open wide horizons in app
+-  Python and JavaScript — because they open wide horizons in app.
+
+
 _🎯 Goal:_
 
 - To create solutions that simplify the complex and help people accomplish tasks in the easiest and most effective way.
