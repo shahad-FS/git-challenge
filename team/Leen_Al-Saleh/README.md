@@ -5,9 +5,13 @@
 
 ## ✨ About Me  
 <img src="./lolo.gif" alt="Lolo" width="150" style="vertical-align: middle;"/>
-```
-Hello! I’m Leen Mohammed Alsaleh, passionate about data analysis and software development, especially using Python and JavaScript. I believe in the power of data and programming to simplify life by transforming complex ideas into practical and easy-to-use solutions. I enjoy blending art and creativity in my work to achieve unique outcomes. My goal is to keep learning, growing professionally, and contributing to data .
-```
+<p style="background-color:#f0f0f0; padding:12px; border-radius:8px; font-family:'Segoe UI', sans-serif;">
+Hello! I’m <strong>Leen Mohammed Alsaleh</strong>, passionate about data analysis and software development, especially using <strong>Python</strong> and <strong>JavaScript</strong>.<br>
+I believe in the power of data and programming to simplify life by transforming complex ideas into practical and easy-to-use solutions.<br>
+I enjoy blending art and creativity in my work to achieve unique outcomes.<br>
+My goal is to keep learning, growing professionally, and contributing to data.
+</p>
+
 
 _💻 Favorite Language :_
    <img src="./lele.gif" alt="Favorite Language" width="120" style="vertical-align: middle; margin-left: 8px;"/>
