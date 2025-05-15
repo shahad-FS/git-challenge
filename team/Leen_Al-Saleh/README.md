@@ -3,10 +3,11 @@
 ![Leen](./leen.gif)
 
 
-## ✨ About Me
-- 💻 Favorite Language: HTML & CSS
-- 🎯 Goal: To be part of creative tech solutions
-- 🌸 Fun Fact: I love organizing digital spaces!
+## ✨ About Me  
+- 💻 Favorite Language :
+-  Python and JavaScript — because they open wide horizons in app
+- 🎯 Goal: To create solutions that simplify the complex and help people accomplish tasks in the easiest and most effective way.
+- 🌸 Fun Fact: I always enjoy transforming complex concepts into simple, organized ideas, skillfully simplifying and managing them, while blending artistic and creative touches to craft unique and inspiring experiences.
 
 ## 💡 Quote
-> "Stay curious, stay creative."
+> "."
