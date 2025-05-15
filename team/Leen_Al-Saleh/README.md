@@ -18,9 +18,7 @@ _💻 Favorite Language :_
 _🎯 Goal:_
 <img src="./goal.gif" alt="Goal" width="120" style="vertical-align: middle; margin-left: 8px;"/>
 
-<p align="left" style="background-color:#d3d3d3; padding:10px; border-radius:6px;">
-  🎯 <i>Goal:</i> To create solutions that simplify the complex and help people accomplish tasks in the easiest and most effective way.
-</p>
+ To create solutions that simplify the complex and help people accomplish tasks in the easiest and most effective way.
 
 _🌸 Fun Fact:_
  <img src="./funnyfact.gif" alt="Fun Fact" width="120" style="vertical-align: middle; margin-left: 8px;"/>
