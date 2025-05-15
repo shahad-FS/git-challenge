@@ -4,9 +4,10 @@
 
 
 ## ✨ About Me  
+
 <h2>
   ✨ About Me 
-  <img src="./team/LeenAl-Saleh/lolo.gif" alt="Lolo" width="40" style="vertical-align: middle; margin-left: 10px;"/>
+  <img src="./team/Leen_Al-Saleh/lolo.gif" alt="Lolo" width="40" style="vertical-align: middle; margin-left: 10px;"/>
 </h2>
 
 
