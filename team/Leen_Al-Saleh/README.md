@@ -4,6 +4,8 @@
 
 
 ## ✨ About Me  
+<h2>About Me ✨ <img src="./team/LeenAl-Saleh/lolo.gif" alt="Lolo" width="40" style="vertical-align: middle;"/></h2>
+
 - 💻 Favorite Language :
 -  Python and JavaScript — because they open wide horizons in app
 - 🎯 Goal: To create solutions that simplify the complex and help people accomplish tasks in the easiest and most effective way.
