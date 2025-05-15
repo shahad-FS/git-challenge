@@ -5,10 +5,12 @@
 
 ## ✨ About Me  
 
-<h2>
-  ✨ About Me 
-  <img src="./team/Leen_Al-Saleh/lolo.gif" alt="Lolo" width="40" style="vertical-align: middle; margin-left: 10px;"/>
-</h2>
+## ✨ About Me  
+<p align="left">
+  <strong>✨ About Me</strong>
+  <img src="../Leen_Al-Saleh/lolo.gif" alt="Lolo" width="40" style="vertical-align: middle; margin-left: 10px;"/>
+</p>
+
 
 
 - 💻 Favorite Language :
