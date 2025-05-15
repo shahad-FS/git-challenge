@@ -10,4 +10,4 @@
 - 🌸 Fun Fact: I always enjoy transforming complex concepts into simple, organized ideas, skillfully simplifying and managing them, while blending artistic and creative touches to craft unique and inspiring experiences.
 
 ## 💡 Quote
-> 
+> ![Leen](./Leen.gif)
