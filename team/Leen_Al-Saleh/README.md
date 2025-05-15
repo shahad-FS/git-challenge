@@ -22,7 +22,7 @@ _💻 Favorite Language :_
 _🎯 Goal:_
 <img src="./goal.gif" alt="Goal" width="120" style="vertical-align: middle; margin-left: 8px;"/>
 
- -To create solutions that simplify the complex and help people accomplish tasks in the easiest and most effective way.
+-  To create solutions that simplify the complex and help people accomplish tasks in the easiest and most effective way.
 
 _🌸 Fun Fact:_
  <img src="./funnyfact.gif" alt="Fun Fact" width="120" style="vertical-align: middle; margin-left: 8px;"/>
