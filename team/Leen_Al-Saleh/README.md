@@ -37,7 +37,7 @@ _🌸 Fun Fact:_
 ---
 
 # 🌟 Challenge #2 – My Technical Journey & Reflections
----
+
 
 ## 🚀 Technical Growth Journey
 
