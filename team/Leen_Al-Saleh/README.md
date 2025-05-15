@@ -4,7 +4,11 @@
 
 
 ## ✨ About Me  
-<h2>About Me ✨ <img src="./team/LeenAl-Saleh/lolo.gif" alt="Lolo" width="40" style="vertical-align: middle;"/></h2>
+<h2>
+  ✨ About Me 
+  <img src="./team/LeenAl-Saleh/lolo.gif" alt="Lolo" width="40" style="vertical-align: middle; margin-left: 10px;"/>
+</h2>
+
 
 - 💻 Favorite Language :
 -  Python and JavaScript — because they open wide horizons in app
