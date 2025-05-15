@@ -17,9 +17,11 @@ _💻 Favorite Language :_
 
 _🎯 Goal:_
 <img src="./goal.gif" alt="Goal" width="120" style="vertical-align: middle; margin-left: 8px;"/>
-<p style="background-color: #f5f5f5; padding: 10px; border-radius: 5px; font-style: italic;">
-To create solutions that simplify the complex and help people accomplish tasks in the easiest and most effective way.
+
+<p align="left" style="background-color:#d3d3d3; padding:10px; border-radius:6px;">
+  🎯 <i>Goal:</i> To create solutions that simplify the complex and help people accomplish tasks in the easiest and most effective way.
 </p>
+
 _🌸 Fun Fact:_
  <img src="./funnyfact.gif" alt="Fun Fact" width="120" style="vertical-align: middle; margin-left: 8px;"/>
 -  I always enjoy transforming complex concepts into simple, organized ideas, skillfully simplifying and managing them, while blending artistic and creative touches to craft unique and inspiring experiences.
