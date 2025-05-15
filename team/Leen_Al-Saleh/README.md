@@ -4,7 +4,7 @@
 
 
 ## ✨ About Me  
-<img src="./lolo.gif" alt="Lolo" width="120" style="vertical-align: middle;"/>
+<img src="./lolo.gif" alt="Lolo" width="150" style="vertical-align: middle;"/>
 
 
 - 💻 Favorite Language :
