@@ -11,12 +11,6 @@
   I enjoy blending art and creativity in my work to achieve unique outcomes.<br>
   My goal is to keep learning, growing professionally, and contributing to data.
 </div>
-```diff
- I believe in the power of data and programming to simplify life by transforming complex ideas into practical and easy-to-use solutions.<br>
-  I enjoy blending art and creativity in my work to achieve unique outcomes.<br>
-  My goal is to keep learning, growing professionally, and contributing to data.
-```
-
 ---
 
 
