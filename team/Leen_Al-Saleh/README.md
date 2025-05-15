@@ -2,7 +2,7 @@
 
 ![Leen](./leen.gif)
 
----
+
 
 ## ✨ About Me  
 <img src="./lolo.gif" alt="Lolo" width="150" style="vertical-align: middle;"/>
@@ -12,9 +12,9 @@
   I enjoy blending art and creativity in my work to achieve unique outcomes.<br>
   My goal is to keep learning, growing professionally, and contributing to data.
 </div>
+
+
 ---
-
-
 _💻 Favorite Language :_
    <img src="./lele.gif" alt="Favorite Language" width="120" style="vertical-align: middle; margin-left: 8px;"/>
 -  Python and JavaScript — because they open wide horizons in app.
