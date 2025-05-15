@@ -8,7 +8,7 @@
 
 
 - 💻 Favorite Language :
-   <img src="./lele.gif" alt="Favorite Language" width="30" style="vertical-align: middle; margin-left: 8px;"/>
+   <img src="./lele.gif" alt="Favorite Language" width="120" style="vertical-align: middle; margin-left: 8px;"/>
 -  Python and JavaScript — because they open wide horizons in app
 - 🎯 Goal:
 - To create solutions that simplify the complex and help people accomplish tasks in the easiest and most effective way.
