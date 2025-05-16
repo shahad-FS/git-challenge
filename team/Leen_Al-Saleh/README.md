@@ -36,33 +36,47 @@ _🌸 Fun Fact:_
 
 ---
 
-<h1 align="center" style="color:#ff69b4;">🌟 Challenge #2 – My Technical Journey & Reflections ✨</h1>
+<h1 align="center" style="color:#ff66b2; font-size: 38px;">🌸 Challenge #2 – My Tech Path & Purpose 💫</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
-</p>
-
-<div align="center" style="background-color:#fef6fb; border-radius:10px; padding:15px;">
-  
-🎨 <strong style="color:#c71585;">Technical Skill I’m Working On:</strong>  
-I'm currently sharpening my skills in <span style="color:#8A2BE2;"><strong>Data Analysis</strong></span> using tools like Python, Excel, and Power BI — turning numbers into powerful insights! 📊✨  
-
-🌱 <strong style="color:#c71585;">What I Learned From the Last Challenge:</strong>  
-I learned how to present my work creatively through GitHub, combine visuals like GIFs and emojis 🎀, and apply branching techniques efficiently.
-
-🌟 <strong style="color:#c71585;">My Goal in the Tech Team:</strong>  
-To collaborate, grow, and contribute with creative yet impactful solutions. I aim to simplify complex tech concepts and express them beautifully. 🎯💡
-
-🧠 <strong style="color:#c71585;">Recent Challenge & How I Solved It:</strong>  
-When I faced issues with styling and image rendering in Markdown, I explored GitHub documentation, tested HTML within `.md` files, and learned how to make design more aesthetic and functional. 💪💻
-
-</div>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjhjM2dlYTRoNzFyZW1uOGw1NW9obHBjM3d6NmZ0OW9vb2M4Znh6MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JQqg1JxV5gTYw/giphy.gif" width="180" />
 </p>
 
 ---
 
-> 💬 Feel free to leave a comment or suggestion on my challenge. I’d love to hear your thoughts! 💖
+<table align="center" width="100%" style="background-color:#fff0f5; border-radius: 10px; padding: 20px; border: 1px solid #ffd6e7;">
+<tr>
+<td>
 
+### 🎯 Technical Skill I’m Working On  
+Currently diving deeper into <strong style="color:#d46bcd;">Data Analysis</strong> — exploring tools like Python, Excel, and Power BI to discover patterns and drive insights from raw data.  
+<img src="./team/Leen_Al-Saleh/lele.gif" width="35" style="vertical-align: middle;"/>
+
+---
+
+### 🌈 What I Learned From The Last Challenge  
+I learned how to beautifully combine Markdown + HTML + Git to present my work professionally while expressing my personality through GIFs, icons, and creative structure.
+
+---
+
+### 🤝 My Goal in the Tech Team  
+To learn, grow, and support others — and to turn complex tasks into beautifully crafted, easy-to-use solutions. I want to add value not only with code but with creativity and collaboration.  
+<img src="./team/Leen_Al-Saleh/goal.gif" width="35" style="vertical-align: middle;"/>
+
+---
+
+### 🧩 Recent Challenge & How I Solved It  
+I faced difficulty displaying images and styling text using GitHub Markdown. So, I experimented with inline HTML, reviewed GitHub’s markdown documentation, and asked peers — and I finally nailed the layout I dreamed of! 🌟  
+<img src="./team/Leen_Al-Saleh/funnyfact.gif" width="35" style="vertical-align: middle;"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aCVpYNBz3A43jAk/giphy.gif" width="200" />
+</p>
+
+> 🩷 _Thank you for reading! I’d love your feedback — let’s grow and shine together!_ ✨
