@@ -35,48 +35,63 @@ _🌸 Fun Fact:_
 </p>
 
 ---
-
-<h1 align="center" style="color:#ff66b2; font-size: 38px;">🌸 Challenge #2 – My Tech Path & Purpose 💫</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjhjM2dlYTRoNzFyZW1uOGw1NW9obHBjM3d6NmZ0OW9vb2M4Znh6MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JQqg1JxV5gTYw/giphy.gif" width="180" />
-</p>
-
----
-
-<table align="center" width="100%" style="background-color:#fff0f5; border-radius: 10px; padding: 20px; border: 1px solid #ffd6e7;">
-<tr>
-<td>
-
-### 🎯 Technical Skill I’m Working On  
-Currently diving deeper into <strong style="color:#d46bcd;">Data Analysis</strong> — exploring tools like Python, Excel, and Power BI to discover patterns and drive insights from raw data.  
-<img src="./team/Leen_Al-Saleh/lele.gif" width="35" style="vertical-align: middle;"/>
-
----
-
-### 🌈 What I Learned From The Last Challenge  
-I learned how to beautifully combine Markdown + HTML + Git to present my work professionally while expressing my personality through GIFs, icons, and creative structure.
-
----
-
-### 🤝 My Goal in the Tech Team  
-To learn, grow, and support others — and to turn complex tasks into beautifully crafted, easy-to-use solutions. I want to add value not only with code but with creativity and collaboration.  
-<img src="./team/Leen_Al-Saleh/goal.gif" width="35" style="vertical-align: middle;"/>
-
----
-
-### 🧩 Recent Challenge & How I Solved It  
-I faced difficulty displaying images and styling text using GitHub Markdown. So, I experimented with inline HTML, reviewed GitHub’s markdown documentation, and asked peers — and I finally nailed the layout I dreamed of! 🌟  
-<img src="./team/Leen_Al-Saleh/funnyfact.gif" width="35" style="vertical-align: middle;"/>
-
-</td>
-</tr>
-</table>
-
----
+<h1 align="center" style="font-size:40px; color:#d96fa7;">✨ Challenge #2 – My Tech Journey ✨</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCVpYNBz3A43jAk/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="200" />
 </p>
 
-> 🩷 _Thank you for reading! I’d love your feedback — let’s grow and shine together!_ ✨
+<div align="center">
+  <img src="https://img.shields.io/badge/Data%20Lover-%23ffb6c1?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Creative%20Thinker-%23dda0dd?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git%20Explorer-%23989dc4?style=for-the-badge&logo=github&logoColor=white"/>
+</div>
+
+---
+
+<h2 style="color:#c26eae;">💻 What I’m Currently Learning</h2>
+
+> I’m diving into the world of **Data Analysis** with Python, Power BI, and Excel.  
+> I love discovering stories hidden in data — and bringing them to life with clean visuals!  
+> <img src="./team/Leen_Al-Saleh/lele.gif" width="40" style="vertical-align: middle; margin-left: 6px;"/>
+
+---
+
+<h2 style="color:#c26eae;">📚 What I Learned From The Last Challenge</h2>
+
+> I mastered styling Markdown with HTML, added custom images & animations, and discovered how GitHub makes creativity in code possible.  
+> I also practiced branch creation, pull requests, and image linking.
+
+---
+
+<h2 style="color:#c26eae;">🎯 My Goal in the Tech Team</h2>
+
+<div>
+  <img src="./team/Leen_Al-Saleh/goal.gif" width="40" style="float: right; margin-left: 10px;"/>
+  <p>
+    My mission is to grow, support others, and build solutions that <strong>simplify life</strong>.  
+    I want to turn technical complexity into beautiful, functional experiences —  
+    where design meets logic and creativity supports collaboration.
+  </p>
+</div>
+
+---
+
+<h2 style="color:#c26eae;">💡 A Challenge I Faced & Solved</h2>
+
+<div>
+  <img src="./team/Leen_Al-Saleh/funnyfact.gif" width="40" style="float: right; margin-left: 10px;"/>
+  <p>
+    One challenge was styling my README with visuals — the text, image paths, and layout just weren’t working.  
+    I solved it by researching GitHub markdown limits, testing in multiple branches, and asking peers for feedback.  
+    Now it looks exactly how I dreamed!
+  </p>
+</div>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" width="250" />
+</p>
+
+> <p align="center" style="color:#888;">🌸 _Thanks for reading my update – I’m excited to see your feedback and reviews!_ 🌸</p>
