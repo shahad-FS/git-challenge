@@ -59,7 +59,7 @@ _🌸 Fun Fact:_
 
 <h2 style="color:#c26eae;">📚 What I Learned From The Last Challenge</h2>
 
-> I mastered styling Markdown with HTML, added custom images & animations, and discovered how GitHub makes creativity in code possible.  
+> I Learn styling Markdown with HTML, added custom images & animations, and discovered how GitHub makes creativity in code possible.  
 > I also practiced branch creation, pull requests, and image linking.
 
 ---
