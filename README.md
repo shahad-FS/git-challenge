@@ -98,6 +98,11 @@
  
  عمل جماعي فعّال
 
+ 
+ 
+# الدفعة الثانية
+![Winners of Challenge #3](https://github.com/user-attachments/assets/3860a5e1-6097-43fd-bd7d-f3a121e2e07d)
+
 
 
  
